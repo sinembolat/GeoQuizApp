@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">GeoQuizApp</string>
+    <string-array name="study_geography_titles">
+        <item>Hello Geographers!</item>
+        <item>What Do We Know About Mars?</item>
+        <item>What About The Nile River?</item>
+        <item>Mount Everest in the Himalayas</item>
+        <item>Which Semicircle Does The Equator Line Divide?</item>
+        <item>Saltiest Water: Dead Sea</item>
+        <item>The Largest Ocean on Earth: Pacific Ocean</item>
+        <item>Definition of Volcano</item>
+        <item>What Does the Term Down Under Mean?</item>
+        <item>Did You Know This About the Amazon River?</item>
+        <item>Tundra Climate</item>
+        <item>About Andes Mountains</item>
+        <item>Karakum Desert</item>
+        <item>What Does "Giant Planet" Mean?</item>
+        <item>The Great Barrier Reef</item>
+        <item>Angel Falls</item>
+        <item>The Largest Hot Desert In The World</item>
+        <item>Mississippi River</item>
+        <item>Capital of Japan</item>
+        <item>What Do We Know About Oxygen and Nitrogen?</item>
+        <item>The Capital City of South Africa</item>
+
+    </string-array>
+
+    <string-array name="study_geography_info_texts">
+        <item>Get information before the test and take a look at the pictures about the topics! Click NEXT Button!</item>
+        <item>Mars is also known as the "Red Planet" due to its red surface. Mars is the fourth planet in the Solar System.</item>
+        <item>The Nile River is located on the African continent and is known as the longest river in the world. This river stretches from Egypt to South Sudan.</item>
+        <item>Mount Everest has the highest peak in the world and is located in the Himalaya Mountains. The Himalayas are a large mountain range stretching across the Asian continent.</item>
+        <item>The equator is a line that divides the Earth into the northern and southern hemispheres. This line defines the places north of the equator as the northern hemisphere, and the places south of the equator as the southern hemisphere.</item>
+        <item>The sea with the saltiest water on Earth is the Dead Sea, located between Israel and Jordan.</item>
+        <item>The Pacific Ocean is the widest and deepest ocean in the world. It stretches from Asia to the Americas and is made up of many islands and seas.</item>
+        <item>A volcano is a geological formation formed by the rise of materials consisting of magma, gas and solid parts to the earths surface. With the explosions, lava, ash and gas are emitted into the atmosphere.</item>
+        <item>The term "Down Under" usually refers to Australia. This term refers to the fact that Australia is located in the southern hemisphere.</item>
+        <item>A large part of the Amazon River is within the territory of Brazil, which is located in South America. The river is one of the longest rivers in the world.</item>
+        <item>The tundra climate is a type of climate in which trees generally do not grow and low temperatures prevail. Therefore, the tundra climate is home to lower plant species such as shrubs.</item>
+        <item>The Andes Mountains, rising in South America, are known as the Roof of the Americas.This magnificent mountain range is a significant natural feature of the region.</item>
+        <item>The Karakum Desert, covering a vast area in Central Asia, is particularly located within the borders of Turkmenistan.</item>
+        <item>Jupiter is a giant gas planet in our Solar System. Known for its size and gravitational pull, this planet possesses distinctive features that set it apart from the others.</item>
+        <item>The Great Barrier Reef, the worlds largest coral reef, is situated off the northeast coast of Australia in the Queensland region.</item>
+        <item>Angel Falls is the highest waterfall on Earth. Located in Canaima National Park in Venezuela, this impressive natural wonder provides a visual spectacle for visitors.</item>
+        <item>The Sahara Desert is the largest hot desert in the world. Spanning a vast area in North Africa, this desert is known for its impressive sand dunes and desert climate.</item>
+        <item>The Mississippi River is one of the longest and most significant rivers in America. Often referred to as the "Father of Waters," this river is a crucial waterway and ecosystem in the United States.</item>
+        <item>Tokyo, the capital of Japan, is a fascinating metropolis known for its modern technology, traditional culture, and vibrant lifestyle.</item>
+        <item>The primary gases making up the majority of Earths atmosphere are oxygen and nitrogen. These two gases play a crucial role in the chemical composition of the atmosphere and are essential for sustaining life.</item>
+        <item>Pretoria, the administrative capital of South Africa, is an important city known for its historical buildings, parks, and cultural heritage.</item>
+
+    </string-array>
+</resources>
+
